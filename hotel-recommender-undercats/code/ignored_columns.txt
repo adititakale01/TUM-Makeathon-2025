@@ -1,0 +1,1 @@
+searchid,bookingshare,clusterchain,clusterbrand,clustersubbrand,distancetoreference,roomcategoryid,startson,endson,requesttimestamp,numrooms,numadults,numchildren,nights,duration,daystostart,daystostart_bucket,locationtype,locationname,locationid,clusterid,price,deviceoutput

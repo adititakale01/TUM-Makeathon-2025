@@ -1,0 +1,12 @@
+black==24.1.1
+isort==5.13.2
+openai==1.76.0
+pandas==2.2.3
+pre_commit==4.2.0
+pyarrow==19.0.1
+python-dotenv==1.1.0
+# agno==1.4.2
+
+# Add your additional dependencies with version numbers
+# Example:
+# pandas==2.2.3

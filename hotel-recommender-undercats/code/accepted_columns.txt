@@ -1,0 +1,1 @@
+hotel_name,pricepernight,rating,ratingscount,starcategory,mealtype,cancelable,distancetocity,distancetounderground,distancetobeach,distancetobathing,distancetoairport,distancetotrainstation,roomcategory,roomconfiguration,popular_location_rank,ltr_score
