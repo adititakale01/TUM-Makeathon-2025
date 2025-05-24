@@ -43,14 +43,15 @@ Understand natural language queries (e.g., "stylish modern hotel with great brea
 
 ### Example Output:
 
-json file similar to:  
+```json 
 [  
     {  
     "name": "Copenhagen Island Hotel",  
     "price": "€196/night",  
     "features": ["Good breakfast", "Pool", "Family-friendly"]  
     }  
-]  
+] 
+```
 
 
 ## Why It Matters for CHECK24
